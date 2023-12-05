@@ -1,0 +1,17 @@
+Readme File for COL226 Assignment 
+
+For Bold and Italics both use *** in beginning and end of the part to be bold and italicised.
+For only Bold use ** and for only italic use * , try to avoid using these symbols elsewhere in the code .
+For underline the syntax is _string_ to underline the string and replace any of the internal spaces with the underscore to avoid conflicts.
+While writing any line first of all write the blockquotes without any single space then with one space put the headings and then the normal expression.
+While using the horizontal ruling you can use blockquotes and one space before hr but not anything after that.
+For block-quotes simply insert them at the beginning of line for email like block_quotes.
+For hyperlinks use the format [ word ]link with no space between “]” and link.
+For tables use <<< to start with 0 indentation and >>> to end the table don’t use any space before <<< for stating the table.
+MDT2HTML final function takes a string.mdt as input and then write in string.html the final output.
+
+
+Sources consulted : 
+	Stackexchange
+	GFG
+	TextIO library
